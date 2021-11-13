@@ -1,1 +1,2 @@
-this git config,version = 1
+config:
+  info: this git config,version = 1
